@@ -1,2 +1,2 @@
-# Dairy-Reactjs
+# Dashboard-Reactjs
 A sample dashboard using react.
