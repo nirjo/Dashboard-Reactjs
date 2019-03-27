@@ -1,8 +1,6 @@
 # Sample Dashboard Using React
 
 
-## Demo link:
-- https://ritwickdey.github.io/react-sample-dashboard/
 
 ## Tech Stuff
 - React.js
